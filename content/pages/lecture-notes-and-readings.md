@@ -35,7 +35,7 @@ READINGS AND HANDOUTS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Course Introduction (PDF)]({{< baseurl >}}/resources/mit6_857s14_lec01)
+[Course Introduction (PDF)]({{< baseurl >}}/resources/mit6_857s14_lec01)
 
 
 {{< tdclose >}}
@@ -55,7 +55,7 @@ READINGS AND HANDOUTS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Security Mechanisms and Principles (PDF)]({{< baseurl >}}/resources/mit6_857s14_lec02)
+[Security Mechanisms and Principles (PDF)]({{< baseurl >}}/resources/mit6_857s14_lec02)
 
 
 {{< tdclose >}}
@@ -79,7 +79,7 @@ Juels, Ari, and Ronald Rivest. "[Honeywords: Making Password-Cracking Detectable
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Encryption, Perfect Secrecy, One-Time Pad (PDF - 1.6MB)]({{< baseurl >}}/resources/mit6_857s14_lec03)
+[Encryption, Perfect Secrecy, One-Time Pad (PDF - 1.6MB)]({{< baseurl >}}/resources/mit6_857s14_lec03)
 
 
 {{< tdclose >}}
@@ -103,7 +103,7 @@ Juels, Ari, and Ronald Rivest. "[Honeywords: Making Password-Cracking Detectable
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Cryptographic Hash Functions (PDF - 1.6MB)]({{< baseurl >}}/resources/mit6_857s14_lec04)
+[Cryptographic Hash Functions (PDF - 1.6MB)]({{< baseurl >}}/resources/mit6_857s14_lec04)
 
 
 {{< tdclose >}}
@@ -129,14 +129,14 @@ Hess, Austin. "[Student Innovators May Get New Legal Resource](http://tech.mit.e
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Hashing Applications and Constructions (PDF - 1.7MB)]({{< baseurl >}}/resources/mit6_857s14_lec05)
+[Hashing Applications and Constructions (PDF - 1.7MB)]({{< baseurl >}}/resources/mit6_857s14_lec05)
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Rivest, Ronald L., and Adi Shamir. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["PayWord and MicroMint: Two Simple Micropayment Schemes." (PDF)](http://people.csail.mit.edu/rivest/RivestShamir-mpay.pdf) MIT Laboratory for Computer Science, 2001.
+Rivest, Ronald L., and Adi Shamir. ["PayWord and MicroMint: Two Simple Micropayment Schemes." (PDF)](http://people.csail.mit.edu/rivest/RivestShamir-mpay.pdf) MIT Laboratory for Computer Science, 2001.
 
 
 {{< tdclose >}}
@@ -173,7 +173,7 @@ Rivest, Ronald L., and Adi Shamir. ![This resource may not render correctly in a
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Secret Sharing (PDF - 2.2MB)]({{< baseurl >}}/resources/mit6_857s14_lec07)  
+[Secret Sharing (PDF - 2.2MB)]({{< baseurl >}}/resources/mit6_857s14_lec07)  
 (Only read the section on secret sharing)
 
 
@@ -194,7 +194,7 @@ Rivest, Ronald L., and Adi Shamir. ![This resource may not render correctly in a
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Block Ciphers (PDF - 2.8MB)]({{< baseurl >}}/resources/mit6_857s14_lec08)
+[Block Ciphers (PDF - 2.8MB)]({{< baseurl >}}/resources/mit6_857s14_lec08)
 
 
 {{< tdclose >}}
@@ -214,7 +214,7 @@ Rivest, Ronald L., and Adi Shamir. ![This resource may not render correctly in a
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Block Cipher Modes (PDF - 5.2MB)]({{< baseurl >}}/resources/mit6_857s14_lec09)
+[Block Cipher Modes (PDF - 5.2MB)]({{< baseurl >}}/resources/mit6_857s14_lec09)
 
 
 {{< tdclose >}}
@@ -238,7 +238,7 @@ Desai, Anand. "[New Paradigms for Constructing Symmetric Encryption Schemes Secu
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Message Authentication Codes (PDF - 6.7MB)]({{< baseurl >}}/resources/mit6_857s14_lec10)
+[Message Authentication Codes (PDF - 6.7MB)]({{< baseurl >}}/resources/mit6_857s14_lec10)
 
 
 {{< tdclose >}}
@@ -262,14 +262,14 @@ Bellare, M., P. Rogaway, et al. "[The EAX Mode of Operation](http://dx.doi.org/1
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Prime Finding and other "Crypto" Math (PDF - 8.1MB)]({{< baseurl >}}/resources/mit6_857s14_lec11)
+[Prime Finding and other "Crypto" Math (PDF - 8.1MB)]({{< baseurl >}}/resources/mit6_857s14_lec11)
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Cao, Zhengjun. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Note On the Storage Requirement for AKS Primality Testing Algorithm." (PDF)](https://eprint.iacr.org/2013/449.pdf) Shanghai University.
+Cao, Zhengjun. ["A Note On the Storage Requirement for AKS Primality Testing Algorithm." (PDF)](https://eprint.iacr.org/2013/449.pdf) Shanghai University.
 
 
 {{< tdclose >}}
@@ -286,7 +286,7 @@ Cao, Zhengjun. ![This resource may not render correctly in a screen reader.](/im
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Diffie-Hellman Key Exchange and Crypto Groups (PDF - 7.6MB)]({{< baseurl >}}/resources/mit6_857s14_lec12)
+[Diffie-Hellman Key Exchange and Crypto Groups (PDF - 7.6MB)]({{< baseurl >}}/resources/mit6_857s14_lec12)
 
 
 {{< tdclose >}}
@@ -306,7 +306,7 @@ Cao, Zhengjun. ![This resource may not render correctly in a screen reader.](/im
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Pedersen Commitment, PK Encryption, DDH (PDF - 8.4MB)]({{< baseurl >}}/resources/mit6_857s14_lec13)
+[Pedersen Commitment, PK Encryption, DDH (PDF - 8.4MB)]({{< baseurl >}}/resources/mit6_857s14_lec13)
 
 
 {{< tdclose >}}
@@ -332,7 +332,7 @@ Paar, Christof, and Jan Pelzl. Chapters 6, 7, and 8 in [_Understanding Cryptogra
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Malleability of El Gamal, IND-CCA2 (PDF - 8.1MB)]({{< baseurl >}}/resources/mit6_857s14_lec14)
+[Malleability of El Gamal, IND-CCA2 (PDF - 8.1MB)]({{< baseurl >}}/resources/mit6_857s14_lec14)
 
 
 {{< tdclose >}}
@@ -341,7 +341,7 @@ Paar, Christof, and Jan Pelzl. Chapters 6, 7, and 8 in [_Understanding Cryptogra
 
 Diffie, Whitfield, and Martin E. Hellman. "[New Directions in Cryptography](http://dx.doi.org/10.1109/TIT.1976.1055638)." _IEEE Transactions on Information Theory_ 22, no. 6 (1976): 644–54.
 
-Boneh, Dan. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Twenty Years of Attacks on the RSA Cryptosystem." (PDF)](http://www.ams.org/notices/199902/boneh.pdf) _Notices of the AMS_ 42, no. 2 (1999): 203–13.
+Boneh, Dan. ["Twenty Years of Attacks on the RSA Cryptosystem." (PDF)](http://www.ams.org/notices/199902/boneh.pdf) _Notices of the AMS_ 42, no. 2 (1999): 203–13.
 
 
 {{< tdclose >}}
@@ -358,7 +358,7 @@ Boneh, Dan. ![This resource may not render correctly in a screen reader.](/image
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Digital Signatures (PDF - 8.4MB)]({{< baseurl >}}/resources/mit6_857s14_lec15)
+[Digital Signatures (PDF - 8.4MB)]({{< baseurl >}}/resources/mit6_857s14_lec15)
 
 
 {{< tdclose >}}
@@ -378,7 +378,7 @@ Boneh, Dan. ![This resource may not render correctly in a screen reader.](/image
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[DSA, Gap Groups (PDF - 3.0MB)]({{< baseurl >}}/resources/mit6_857s14_lec16)
+[DSA, Gap Groups (PDF - 3.0MB)]({{< baseurl >}}/resources/mit6_857s14_lec16)
 
 
 {{< tdclose >}}
@@ -402,7 +402,7 @@ Project Progress Review
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Gap Groups, Bilinear Maps, and Applications (PDF - 5.2MB)]({{< baseurl >}}/resources/mit6_857s14_lec17)
+[Gap Groups, Bilinear Maps, and Applications (PDF - 5.2MB)]({{< baseurl >}}/resources/mit6_857s14_lec17)
 
 
 {{< tdclose >}}
@@ -428,7 +428,7 @@ The Pairing-Based Crypto Lounge.
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Zero-Knowledge Proofs (PDF - 4.0MB)]({{< baseurl >}}/resources/mit6_857s14_lec18)
+[Zero-Knowledge Proofs (PDF - 4.0MB)]({{< baseurl >}}/resources/mit6_857s14_lec18)
 
 
 {{< tdclose >}}
