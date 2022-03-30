@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 144107b0-9f7f-fc0d-e212-00bcc7c0981e
 resourcetype: Image
 title: Run lengths
 uid: 1916724c-219d-acd9-0ef8-41fd452a97fe

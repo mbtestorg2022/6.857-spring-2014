@@ -14,7 +14,7 @@ Recitations: 1 session / week, 1.5 hours / session
 Prerequisites
 -------------
 
-The prerequisites for the course are _[6.033 Computer System Engineering](/courses/6-033-computer-system-engineering-spring-2009/)_and [_6.042J Mathematics for Computer Science_](/courses/6-042j-mathematics-for-computer-science-spring-2015/). It is recommended that students have had _[6.006 Introduction to Algorithms](/courses/6-006-introduction-to-algorithms-fall-2011/)_or _[6.046J Design and Analysis of Algorithms](/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)_and experience with modular arithmetic.
+The prerequisites for the course are _[6.033 Computer System Engineering](/courses/6-033-computer-system-engineering-spring-2009/)_and [_6.042J Mathematics for Computer Science_](/courses/6-042j-mathematics-for-computer-science-spring-2015). It is recommended that students have had _[6.006 Introduction to Algorithms](/courses/6-006-introduction-to-algorithms-fall-2011)_or _[6.046J Design and Analysis of Algorithms](/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005)_and experience with modular arithmetic.
 
 Description
 -----------

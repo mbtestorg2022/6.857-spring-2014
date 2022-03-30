@@ -82,7 +82,7 @@ Miscellaneous
 -------------
 
 *   [CSAIL Security Seminar](http://css.csail.mit.edu/security-seminar/): Attend the seminar talks if you are interested in current security research.
-*   [The 6.033 textbook](/resources/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/online-textbook/), particularly the chapter on [Information security (PDF)](/resources/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/online-textbook/protection_open_5_0.pdf).
+*   [The 6.033 textbook](/courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/pages/online-textbook), particularly the chapter on [Information security (PDF)](/courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/resources/protection_open_5_0).
 *   [IEEE CIPHER newsletter](http://www.ieee-security.org/cipher.html)
 *   [Schneier's CRYPTOGRAM](http://www.counterpane.com/crypto-gram.html)
 *   comp.risks archive via UseNet contains the latest few issues, it can also be browsed via [Discuss](http://diswww.mit.edu/picayune/risks/).
